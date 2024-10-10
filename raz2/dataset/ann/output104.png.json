@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 432,
+        "width": 768
+    },
+    "objects": [
+        {
+            "id": 1597121641,
+            "classId": 13401795,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "sss12",
+            "createdAt": "2024-10-10T08:06:40.351Z",
+            "updatedAt": "2024-10-10T08:06:40.351Z",
+            "tags": [],
+            "classTitle": "razmetka",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        285
+                    ],
+                    [
+                        421,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
