@@ -1,0 +1,23 @@
+{
+    "classes": [
+        {
+            "title": "razmetka",
+            "description": "",
+            "shape": "rectangle",
+            "color": "#D00202",
+            "geometry_config": {},
+            "id": 13401795,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        }
+    }
+}
