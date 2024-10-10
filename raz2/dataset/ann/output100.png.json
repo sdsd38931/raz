@@ -1,0 +1,60 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 432,
+        "width": 768
+    },
+    "objects": [
+        {
+            "id": 1597124078,
+            "classId": 13401795,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "sss12",
+            "createdAt": "2024-10-10T08:32:48.746Z",
+            "updatedAt": "2024-10-10T08:32:48.746Z",
+            "tags": [],
+            "classTitle": "razmetka",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        298
+                    ],
+                    [
+                        325,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1597124080,
+            "classId": 13401795,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "sss12",
+            "createdAt": "2024-10-10T08:32:54.570Z",
+            "updatedAt": "2024-10-10T08:32:54.570Z",
+            "tags": [],
+            "classTitle": "razmetka",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        176
+                    ],
+                    [
+                        72,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
